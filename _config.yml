@@ -11,9 +11,9 @@ email: Xeromancer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The thoughts and ideas of a pre-horomone trans-femme stuck in the wrong body.
 baseurl: "/afm-thoughts" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://UnimportantWank.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:  UnimportantWank
 
 # Build settings
 markdown: kramdown
